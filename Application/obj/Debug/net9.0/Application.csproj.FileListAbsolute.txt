@@ -1,0 +1,17 @@
+C:\Endava\EndevLocal\Deep Thought\Application\bin\Debug\net9.0\Application.deps.json
+C:\Endava\EndevLocal\Deep Thought\Application\bin\Debug\net9.0\Application.dll
+C:\Endava\EndevLocal\Deep Thought\Application\bin\Debug\net9.0\Application.pdb
+C:\Endava\EndevLocal\Deep Thought\Application\bin\Debug\net9.0\Domain.dll
+C:\Endava\EndevLocal\Deep Thought\Application\bin\Debug\net9.0\Persistence.dll
+C:\Endava\EndevLocal\Deep Thought\Application\bin\Debug\net9.0\Persistence.pdb
+C:\Endava\EndevLocal\Deep Thought\Application\bin\Debug\net9.0\Domain.pdb
+C:\Endava\EndevLocal\Deep Thought\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\Endava\EndevLocal\Deep Thought\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Endava\EndevLocal\Deep Thought\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\Endava\EndevLocal\Deep Thought\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\Endava\EndevLocal\Deep Thought\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\Endava\EndevLocal\Deep Thought\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\Endava\EndevLocal\Deep Thought\Application\obj\Debug\net9.0\Application.dll
+C:\Endava\EndevLocal\Deep Thought\Application\obj\Debug\net9.0\refint\Application.dll
+C:\Endava\EndevLocal\Deep Thought\Application\obj\Debug\net9.0\Application.pdb
+C:\Endava\EndevLocal\Deep Thought\Application\obj\Debug\net9.0\ref\Application.dll

@@ -1,0 +1,15 @@
+C:\Endava\EndevLocal\Deep Thought\Persistence\bin\Debug\net9.0\Persistence.deps.json
+C:\Endava\EndevLocal\Deep Thought\Persistence\bin\Debug\net9.0\Persistence.dll
+C:\Endava\EndevLocal\Deep Thought\Persistence\bin\Debug\net9.0\Persistence.pdb
+C:\Endava\EndevLocal\Deep Thought\Persistence\bin\Debug\net9.0\Domain.dll
+C:\Endava\EndevLocal\Deep Thought\Persistence\bin\Debug\net9.0\Domain.pdb
+C:\Endava\EndevLocal\Deep Thought\Persistence\obj\Debug\net9.0\Persistence.csproj.AssemblyReference.cache
+C:\Endava\EndevLocal\Deep Thought\Persistence\obj\Debug\net9.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Endava\EndevLocal\Deep Thought\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfoInputs.cache
+C:\Endava\EndevLocal\Deep Thought\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfo.cs
+C:\Endava\EndevLocal\Deep Thought\Persistence\obj\Debug\net9.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Endava\EndevLocal\Deep Thought\Persistence\obj\Debug\net9.0\Persiste.61C28332.Up2Date
+C:\Endava\EndevLocal\Deep Thought\Persistence\obj\Debug\net9.0\Persistence.dll
+C:\Endava\EndevLocal\Deep Thought\Persistence\obj\Debug\net9.0\refint\Persistence.dll
+C:\Endava\EndevLocal\Deep Thought\Persistence\obj\Debug\net9.0\Persistence.pdb
+C:\Endava\EndevLocal\Deep Thought\Persistence\obj\Debug\net9.0\ref\Persistence.dll
