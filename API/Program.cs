@@ -35,7 +35,8 @@ app.UseCors(x => x
     .AllowAnyHeader()
     .AllowAnyMethod()
     .AllowCredentials()
-    .WithOrigins("http://localhost:3000")
+    // add your dev origins (Vite often uses 5173/5174); include whatever port your client runs on
+    .WithOrigins("http://localhost:3000", "http://localhost:5173", "http://localhost:5174")
 );
 
 app.MapControllers();
