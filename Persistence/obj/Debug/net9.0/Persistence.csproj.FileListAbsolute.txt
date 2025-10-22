@@ -13,3 +13,4 @@ C:\Endava\EndevLocal\Deep Thought\Persistence\obj\Debug\net9.0\Persistence.dll
 C:\Endava\EndevLocal\Deep Thought\Persistence\obj\Debug\net9.0\refint\Persistence.dll
 C:\Endava\EndevLocal\Deep Thought\Persistence\obj\Debug\net9.0\Persistence.pdb
 C:\Endava\EndevLocal\Deep Thought\Persistence\obj\Debug\net9.0\ref\Persistence.dll
+C:\Endava\EndevLocal\Deep Thought\Persistence\obj\Debug\net9.0\Persistence.sourcelink.json

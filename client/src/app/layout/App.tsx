@@ -1,5 +1,6 @@
+import { Outlet } from "react-router";
 import useJobs from "../../lib/hooks/useJobs";
-import JobCard from "../../features/dashboard/JobCard";
+// import JobCard from "../../features/dashboard/JobCard";
 import { Box, Container, Typography } from "@mui/material";
 
 export default function App() {
@@ -12,9 +13,10 @@ export default function App() {
     <Box>
       <Container>
         <Typography variant="h4" gutterBottom>Jobs</Typography>
-        {jobs.map((j) => (
+        {/* {jobs.map((j) => (
           <JobCard key={j.id} job={j} />
-        ))}
+        ))} */}
+        <Outlet />
       </Container>
     </Box>
   );

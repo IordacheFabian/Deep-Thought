@@ -10,3 +10,4 @@ C:\Endava\EndevLocal\Deep Thought\Domain\obj\Debug\net9.0\Domain.dll
 C:\Endava\EndevLocal\Deep Thought\Domain\obj\Debug\net9.0\refint\Domain.dll
 C:\Endava\EndevLocal\Deep Thought\Domain\obj\Debug\net9.0\Domain.pdb
 C:\Endava\EndevLocal\Deep Thought\Domain\obj\Debug\net9.0\ref\Domain.dll
+C:\Endava\EndevLocal\Deep Thought\Domain\obj\Debug\net9.0\Domain.sourcelink.json
