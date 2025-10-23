@@ -1,4 +1,4 @@
-import { Box } from "@mui/material";
+import { Box, Stack } from "@mui/material";
 
 type Props = {
     job: Job;
@@ -6,9 +6,11 @@ type Props = {
 
 export default function JobCard({ job }: Props) {
   return (
-    <Box>
-      <h2>{job?.question ?? "Untitled"}</h2>
-      <p>{job?.algorithm ?? "No algorithm provided"}</p>
+    <Box sx={{ backgroundColor: "grey", borderRadius: 3}}>
+      <Stack spacing={1} sx={{ padding: 2 }}>
+        <h2>{job?.question ?? "Untitled"}</h2>
+        <p>{job?.algorithm ?? "No algorithm provided"}</p>
+      </Stack>
     </Box>
   );
 }

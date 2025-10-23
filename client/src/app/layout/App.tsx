@@ -1,7 +1,7 @@
 import { Outlet } from "react-router";
 import useJobs from "../../lib/hooks/useJobs";
 // import JobCard from "../../features/dashboard/JobCard";
-import { Box, Container, Typography } from "@mui/material";
+import { Box, Container } from "@mui/material";
 
 export default function App() {
   const { jobs } = useJobs();
@@ -10,9 +10,9 @@ export default function App() {
   if (jobs.length === 0) return <Container>No jobs found</Container>;
 
   return (
-    <Box>
-      <Container>
-        <Typography variant="h4" gutterBottom>Jobs</Typography>
+    <Box minWidth={"100vw"}>
+      <Container maxWidth="xl" sx={{ mt: 3 }}>
+        
         {/* {jobs.map((j) => (
           <JobCard key={j.id} job={j} />
         ))} */}

@@ -43,10 +43,10 @@ export default function JobForm() {
       try {
         if (createJob.mutateAsync) {
           const result = await createJob.mutateAsync(data);
-          console.log("Job created", result);
+          navigate("/");
         } else {
           createJob.mutate(data, {
-            onSuccess: (res) => console.log("Job created", res),
+            onSuccess: () => navigate("/"),
             onError: (err) => console.error(err),
           });
         }
@@ -116,6 +116,7 @@ export default function JobForm() {
                     background: "linear-gradient(90deg, #29b6f6, #7b61ff)",
                   },
                 }}
+                
               >
                 {loading ? <CircularProgress size={20} color="inherit" /> : "Send"}
               </Button>
