@@ -1,7 +1,8 @@
 import { createBrowserRouter } from "react-router";
 import App from "../layout/App";
-import JobForm from "../../features/form/JobForm";
+// import JobForm from "../../features/form/JobForm";
 import JobDashboard from "../../features/dashboard/JobDashboard";
+import JobChat from "../../features/details/JobChat";
 
 export const router = createBrowserRouter([
     {
@@ -9,7 +10,7 @@ export const router = createBrowserRouter([
     element: <App />,
     children: [
         {path: "/", element: <JobDashboard/>},
-        {path: "ask", element: <JobForm/>}
+        {path: "ask", element: <JobChat/>}
     ],
 }
 ])
