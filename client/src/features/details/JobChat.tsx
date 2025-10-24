@@ -300,10 +300,10 @@ export default function ActivityDetailsChat() {
                     variant="body2"
                     sx={{ mt: 0.5, whiteSpace: "pre-wrap" }}
                   >
-                    {m.text}
+                    {/* {m.text} */}
+                    {loading ? "Thinking..." : m.text}
                   </Typography>
 
-                  {/* if this message is an asking prompt, show algorithm buttons */}
                   {m.asking && m.questionRef && (
                     <Stack
                       direction="row"

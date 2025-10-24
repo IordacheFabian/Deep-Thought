@@ -6,11 +6,11 @@ export default function JobDashboard() {
   return (
     <Box
       sx={{
-        minHeight: "20vh", // full viewport height
-        minWidth: "100vh", // full viewport width
+        minHeight: "20vh", 
+        minWidth: "100vh", 
         display: "flex",
-        justifyContent: "center", // center horizontally
-        alignItems: "center", // center vertically
+        justifyContent: "center", 
+        alignItems: "center", 
         p: 3,
       }}
     >
